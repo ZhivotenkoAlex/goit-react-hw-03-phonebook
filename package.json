@@ -1,5 +1,5 @@
 {
-    "name": "goit-react-hw-02-phonebook",
+    "name": "goit-react-hw-03-phonebook",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
@@ -44,5 +44,5 @@
         "lint-staged": "^10.5.3",
         "prettier": "^2.2.1"
     },
-    "homepage": "https://zhivotenkoalex.github.io/goit-react-hw-02-phonebook/"
+    "homepage": "https://zhivotenkoalex.github.io/goit-react-hw-03-phonebook"
 }
